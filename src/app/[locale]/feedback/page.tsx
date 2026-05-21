@@ -14,7 +14,7 @@ import {
     localeToOpenGraphLocale,
 } from "@/lib/seo"
 
-const FEEDBACK_EMAIL = "fallback@bhwa233.com"
+const FEEDBACK_EMAIL = "feedback@bhwa233.com"
 
 export async function generateMetadata({
     params,
